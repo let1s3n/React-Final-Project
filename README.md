@@ -1,4 +1,4 @@
-## React Redux
+## ReactJS Final Project
 
 1) Download the project as a zip file.
 2) Change the current working directory to your project directory.
